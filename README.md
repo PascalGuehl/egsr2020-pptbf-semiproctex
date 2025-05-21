@@ -4,7 +4,7 @@ Computer Graphics Forum (CGF), Volume 39, Issue 4, July 2020
 
 EGSR 2020, June-July 2020, London, UK
 
-Pascal Guehl (1), Rémi Allègre (1), Jean-Michel Dischler (1), Bedrich Benes (2), Eric Galin (3), 
+Pascal Guehl (1), Rémi Allègre (1), Jean-Michel Dischler (1), Bedrich Benes (2), Eric Galin (3)
 
 - (1) ICube, Université de Strasbourg, CNRS, France
 - (2) Purdue University, USA
